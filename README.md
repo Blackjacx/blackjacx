@@ -17,3 +17,5 @@ I'm Stefan and I just discovered this nice trick to show a a full markdown readm
 #### Github Stats
 
 [![Blackjacx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackjacx&show_icons=true&hide_border=true)](https://github.com/blackjacx)    
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackjacx&layout=compact)](https://github.com/blackjacx)
