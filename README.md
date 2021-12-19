@@ -13,3 +13,7 @@ I'm Stefan and I just discovered this nice trick to show a a full markdown readm
 - 👯 I’m looking to collaborate on different kinds of Open Source software
 - 🤔 I’m looking for help with my own [OSS frameworks](https://blackjacx.github.io/Projects/)
 - 💬 Ask me about just anything on [Twitter](https://twitter.com/Blackjacxxx)
+
+#### Github Stats
+
+[![Blackjacx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackjacx&show_icons=true&hide_border=true)](https://github.com/blackjacx)    
