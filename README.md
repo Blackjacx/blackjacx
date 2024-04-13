@@ -43,7 +43,7 @@ I'm Stefan and I just discovered this nice trick to show a a full markdown readm
 
 [![Blackjacx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackjacx&show_icons=true&hide_border=true)](https://github.com/blackjacx)    
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackjacx&layout=compact&show_icons=true&hide_border=true)](https://github.com/blackjacx)
+![Yusufcihan1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yusufcihan1&theme=vue-dark&hide_border=true)
 
 
 
