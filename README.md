@@ -15,14 +15,13 @@ I'm Stefan and I just discovered this nice trick to show a a full markdown readm
 - 🤔 I’m looking for help with my own [frameworks](https://blackjacx.github.io/Projects/)
 - 💬 Ask me about just anything on [Twitter](https://twitter.com/Blackjacxxx)
 
-## Connect with me:
+## Connect with me
 
-[<img align="left" alt="Blackjacx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Blackjacx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Twitter Follow](https://img.shields.io/badge/follow-%40blackjacx-1DA1F2?logo=twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblackjacxxx&screen_name=Blackjacxxx) <br />
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/110346722592610499?domain=https%3A%2F%2Fmastodon.social&style=social&logo=mastodon)](https://mastodon.social/@blackjacx)  <br />
+[![LinkedIn Follow](https://img.shields.io/badge/follow-%40stherold-1DA1F2?logo=linkedin&style=social)](https://www.linkedin.com/in/stherold/) <br />
 
-<br />
-
-## Languages and Tools:
+## Languages and Tools
 
 [<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][website]
 [<img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />][website]
@@ -37,12 +36,9 @@ I'm Stefan and I just discovered this nice trick to show a a full markdown readm
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
-<br />
-
 ## Github Stats
 
-[![Blackjacx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackjacx&show_icons=true&hide_border=true)](https://github.com/blackjacx)    
-
+[![Blackjacx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackjacx&show_icons=true&hide_border=true)](https://github.com/blackjacx)  <br />
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackjacx&layout=compact&show_icons=true&hide_border=true)](https://github.com/blackjacx)
 
 
