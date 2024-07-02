@@ -12,8 +12,8 @@ I'm Stefan and I just discovered this nice trick to show a a full markdown readm
 - 🔭 I’m the first mobile developer of [ioki](https://ioki.com) - the best company I've worked for so far. We develop, run and maintain a very powerful [Demand-Responsive-Transport](https://en.wikipedia.org/wiki/Demand-responsive_transport) system in the name of [Deutsche Bahn AG](https://www.bahn.de)
 - 🌱 I’m currently learning different things, like SwiftUI, all the niceties of the newest iOS and Xcode, always improve myself in Shell scripting since this was there before the dinosaurs 🦖 and will be there when aliens make friendships with humans 🔮.
 - 👯 I’m looking to collaborate on different kinds of open source software
-- 🤔 I’m looking for help with my own [frameworks](https://blackjacx.github.io/Projects/)
-- 💬 Ask me about just anything on [Twitter](https://twitter.com/Blackjacxxx)
+- 🤔 I’m looking for help with my own [projects](https://blackjacx.github.io/Me/documentation/me/projects)
+- 💬 Ask me about just anything on [Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblackjacxxx&screen_name=Blackjacxxx)
 
 ## Connect with me
 
